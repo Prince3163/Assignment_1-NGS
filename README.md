@@ -11,7 +11,7 @@ This repository contains solutions to all the problems from **Assignment 1** of 
 ### 1. Prime Number Operations
 - **Concepts**: Loops, Conditionals, Arrays, Methods.
 - **Program**: Finds all prime numbers between two numbers entered by the user, stores them in an array, and calculates their sum.
-- **File**: `PrimeNumber/PrimeNumber.java`
+- **File**: `PrimeNumber.java`
 
 ---
 
