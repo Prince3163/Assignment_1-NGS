@@ -1,4 +1,4 @@
-# Assignment_1-NGS
+# Assignment_1_NGS
 
 ## Core Java Assignment Programs
 
